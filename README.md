@@ -6,12 +6,16 @@ Dự án này sử dụng Machine Learning để dự đoán giai đoạn bệnh
 
 ## 📁 Cấu Trúc Thư Mục
 
+```
+
 ├── 📊 Report.pdf              # Báo cáo chi tiết dự án
 ├── 🎯 Slide.pdf              # Bài thuyết trình
 └── 💻 Code/
     ├── 📓 Code_Final.ipynb    # Notebook chính chứa toàn bộ code
     └── 🗂️ data/
         └── 📦 data.zip        # Dữ liệu gốc (liver_cirrhosis.csv)
+
+```
         
 ## 🔬 Dataset
 
